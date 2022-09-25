@@ -22,4 +22,4 @@
 - Makefile
     - This is the Makefile for Big Integer Calculator, useful for compiling Arithmetic, BigIntegerTest, ListTest, and memory leak checks for Arithmetic, BigIntegerTest, and ListTest.
     
-# This project was done for CSE101 at the University of California, Santa Cruz.
+*This project was done for CSE101 at the University of California, Santa Cruz.*
